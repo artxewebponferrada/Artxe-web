@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>pruebas</title>
+    <link href="https://eltx3b4s.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://eltx3b4s.github.io/gh-pages" />
+    <updated>2022-11-07T15:02:29+01:00</updated>
+    <author>
+        <name>pruebas</name>
+    </author>
+    <id>https://eltx3b4s.github.io/gh-pages</id>
+
+    <entry>
+        <title>esto es una prueba</title>
+        <author>
+            <name>pruebas</name>
+        </author>
+        <link href="https://eltx3b4s.github.io/gh-pages/esto-es-una-prueba.html"/>
+        <id>https://eltx3b4s.github.io/gh-pages/esto-es-una-prueba.html</id>
+
+        <updated>2022-11-07T15:02:29+01:00</updated>
+            <summary>
+                <![CDATA[
+                    prueba en cloudfare
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>prueba en cloudfare</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

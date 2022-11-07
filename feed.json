@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "pruebas",
+    "description": "",
+    "home_page_url": "https://eltx3b4s.github.io/gh-pages",
+    "feed_url": "https://eltx3b4s.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "pruebas"
+    },
+    "items": [
+        {
+            "id": "https://eltx3b4s.github.io/gh-pages/esto-es-una-prueba.html",
+            "url": "https://eltx3b4s.github.io/gh-pages/esto-es-una-prueba.html",
+            "title": "esto es una prueba",
+            "summary": "prueba en cloudfare",
+            "content_html": "<p>prueba en cloudfare</p>",
+            "author": {
+                "name": "pruebas"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-11-07T15:02:29+01:00",
+            "date_modified": "2022-11-07T15:02:29+01:00"
+        }
+    ]
+}
